@@ -1,0 +1,3 @@
+# iTerm
+
+> My iTerm configuration
